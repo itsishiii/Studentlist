@@ -16,8 +16,8 @@ public class StudentList16May {
      */
    
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in); //hello  
-        Student s1 = new Student("Ishika","s1");//comment for rollback
+        Scanner input = new Scanner(System.in); //hello
+        Student s1 = new Student("Ishika","s1");
       
         
             
