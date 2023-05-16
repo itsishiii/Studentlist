@@ -14,8 +14,9 @@ public class StudentList16May {
     /**
      * @param args the command line arguments
      */
+   
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+        Scanner input = new Scanner(System.in); //hello
         Student s1 = new Student("Ishika","s1");
       
         
