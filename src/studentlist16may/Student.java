@@ -29,7 +29,7 @@ public class Student {
     public String getsId() {
         return sId;
     }
-
+//again fetching n merging
     public void setsId(String sId) {
         this.sId = sId;
     
