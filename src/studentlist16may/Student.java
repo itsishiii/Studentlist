@@ -18,11 +18,11 @@ public class Student {
         this.sId = sId;
     }
 
-    public String getSname() {
+    public String getsname() {
         return sname;
     }
 
-    public void setSname(String sname) {
+    public void setsname(String sname) {
         this.sname = sname;
     }
 
