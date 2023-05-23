@@ -11,7 +11,7 @@ package studentlist16may;
 public class Student {
     private String sname;
     private String sId;
-
+//this has been edited on githubfor fecthmerge
    
     public Student(String sname, String sId) {
         this.sname = sname;
